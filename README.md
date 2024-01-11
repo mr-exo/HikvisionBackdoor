@@ -6,7 +6,5 @@ Python file that gets a list of IP's from Shodan, then checks the Hikvision came
 
 ## What is this supposed to be?
 Simple scanner that checks if a target device has a backdoor.</br>
+
 Click [Here](https://ipvm.com/reports/hik-exploit) to read more about the backdoor.</br>
-
-
-Click [Here](https://replit.com/@mr-exo/hikvision#main.py) to view the same script that you can run online.</br>
